@@ -20,7 +20,7 @@ Open terminal and run as follows:
 2. Activate the environment
     `conda activate fenics-env`
 
-3.Verify installation
+3. Verify installation
 Run Python and test:
 `import dolfin
 print(dolfin.__version__)`
